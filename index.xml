@@ -19,5 +19,14 @@
 </description>
     </item>
     
+    <item>
+      <title>about</title>
+      <link>http://zepouet.github.io/about/</link>
+      <pubDate>Thu, 21 May 2015 09:30:58 +0200</pubDate>
+      
+      <guid>http://zepouet.github.io/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
